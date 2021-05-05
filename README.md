@@ -29,6 +29,20 @@ My passion for problem solving and learning is what landed me in software engine
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Josh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joshsomthin&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Josh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshsomthin" />
+
+</details>
+
 <!--
 **joshsomthin/joshsomthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
