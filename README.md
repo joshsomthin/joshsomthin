@@ -2,7 +2,7 @@
 
 My passion for problem solving and learning is what landed me in software engineering. In previous jobs I found myself running into a wall where I felt there was a limit to what I could learn, something I never want to feel again. Software engineering is my creative outlet where I can combine my aptitude for creative problem solving and learning, and make products that can have an impact on peoples day to day.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshsomthin/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-miller-625685154/)
 [![Gmail Badge](https://img.shields.io/badge/-joshua.miller2289@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joshua.miller2289@gmail.com)](mailto:joshua.miller2289@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://joshsomthin.github.io/)
 
